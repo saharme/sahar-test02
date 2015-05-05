@@ -1,0 +1,26 @@
+{
+  "name": "sahar-test02",
+  "version": "1.0.0",
+  "authors": [
+    "Menashe",
+    "Sahar <sahar.menasheh@hp.com>"
+  ],
+  "description": "Sahar Component",
+  "keywords": [
+    "Sahar",
+    "Sahar-component"
+  ],
+  "repository": {
+	"type": "git",
+	"url": "git@github.com:saharme/sahar-test02.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
